@@ -17,7 +17,6 @@ Syntax highlighted code block
 
 - Bulleted
 - List
-<header>test only</header>
 
 1. Numbered
 2. List
